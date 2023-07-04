@@ -1,0 +1,15 @@
+{
+    "brightness": {
+        "gloomy": {},
+        "unlit": {},
+        "bright": {
+            "illuminated": {
+                "sunlit": {}
+            },
+            "shiny": {},
+            "reflective": {},
+            "glowing": {},
+            "sparkling": {}
+        }
+    }
+}

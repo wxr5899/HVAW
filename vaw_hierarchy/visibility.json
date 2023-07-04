@@ -1,0 +1,10 @@
+{
+    "visibility": {
+        "clear": {},
+        "translucent": {},
+        "transparent": {},
+        "fuzzy": {}, 
+        "opaque": {}, 
+        "partially visible": {}
+    }
+}

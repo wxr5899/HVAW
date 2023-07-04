@@ -1,0 +1,112 @@
+{
+    "activity": {
+        "playing": {
+            "playing baseball": {},
+            "playing frisbee": {},
+            "playing football": {},
+            "playing tennis": {}
+        },
+        "hitting": {},
+        "batting": {},
+        "racing": {},
+        "fishing": {},
+        "exercising": {},
+        "vacationing": {},
+        "shopping": {},
+        "socializing": {},
+        "eating": {
+            "grazing": {}
+        },
+        "drinking": {},
+        "talking": {},
+        "typing": {
+            "texting": {}
+        },
+        "moving": {
+            "skating": {},
+            "skateboarding": {},
+            "skiing": {},
+            "traveling": {},
+            "paddling": {},
+            "riding": {
+                "riding bike": {},
+                "riding horse": {}
+            },
+            "running": {},
+            "walking": {},
+            "sliding": {},
+            "swimming": {},
+            "driving": {},
+            "swinging": {},
+            "climbing": {},
+            "surfing": {},
+            "hiking": {}, 
+            "following": {}, 
+            "carrying": {}, 
+            "flying": {}
+        },
+        "celebrating": {},
+        "sunbathing": {},
+        "working": {},
+        "studying": {},
+        "waiting": {},
+        "taking photo": {
+            "taking selfie": {}
+        },
+        "concentrating": {},
+        "hugging": {},
+        "kissing": {},
+        "hiding": {},
+        "cooking": {},
+        "watching": {
+            "watching tv": {}
+        },
+        "cutting": {},
+        "clapping": {},
+        "pointing": {},
+        "throwing": {},
+        "waving": {},
+        "looking": {
+            "looking at camera": {}, 
+            "looking down": {}, 
+            "looking up": {}
+        },
+        "selling": {},
+        "bending": {},
+        "jumping": {},
+        "leaping": {}, 
+        "lying": {},
+        "brushing teeth": {},
+        "smoking": {},
+        "squatting": {}, 
+        "standing": {}, 
+        "writing": {},
+        "thinking": {},
+        "holding": {}, 
+        "sleeping": {},
+        "hunting": {},
+        "listening": {},
+        "hanging": {},
+        "raising arm": {},
+        "operating": {},
+        "stretching": {},
+        "reading": {},
+        "smelling": {},
+        "serving": {},
+        "feeding": {},
+        "catching": {},
+        "participating": {
+            "spectating": {}
+        },
+        "resting": {},
+        "reaching": {},
+        "crossing arms": {},
+        "landing": {},
+        "using computer": {},
+        "using phone": {}, 
+        "staring": {},
+        "posing": {}, 
+        "pulled back": {},
+        "turning": {}
+    }
+}

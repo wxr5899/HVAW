@@ -1,0 +1,76 @@
+{
+    "color": {
+        "black": {},
+        "aqua": {
+            "turquoise": {},
+            "teal": {}
+        },
+        "blue": {
+            "bluish": {},
+            "bright blue": {},
+            "dark blue": {},
+            "light blue": {},
+            "navy blue": {},
+            "pale blue": {}, 
+            "shiny blue": {}
+        },
+        "brown": {
+            "beige": {},
+            "dark brown": {},
+            "light brown": {},
+            "golden brown":{},
+            "tan": {},
+            "taupe": {}
+        },
+        "gray": {
+            "dark gray": {},
+            "light gray": {}
+        },
+        "green": {
+            "bright green": {},
+            "dark green": {},
+            "green tinted": {},
+            "light green": {},
+            "lime green": {},
+            "neon green": {},
+            "olive green": {},
+            "pale green": {}
+        },
+        "murky": {},
+        "pink": {
+            "dark pink": {}
+        },
+        "purple": {
+            "purplish": {},
+            "dark purple": {}, 
+            "violet": {}
+        },
+        "red": {
+            "bright red": {},
+            "dark red": {},
+            "light red": {},
+            "reddish": {},
+            "fuchsia": {},
+            "burgundy": {},
+            "maroon": {}
+        },
+        "rust colored": {},
+        "silver": {},
+        "terracotta": {},
+        "white": {
+            "off white": {},
+            "ivory": {}
+        },
+        "cream colored": {},
+        "yellow": {
+            "bright yellow": {},
+            "light yellow": {}
+        },
+        "amber": {},
+        "orange": {},
+        "golden": {
+            "blond": {}
+        },
+        "bronze": {}
+    }
+}

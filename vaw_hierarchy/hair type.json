@@ -1,0 +1,21 @@
+{
+    "hair type": {
+        "long haired": {
+            "shoulder length": {}
+        },
+        "short haired": {}, 
+        "wave": {}, 
+        "frizzy": {}, 
+        "hairy": {},
+        "wavy": {}, 
+        "hairless": {}, 
+        "bald": {},
+        "hair color": {
+            "black haired": {},
+            "brown haired": {},
+            "dark haired": {},
+            "red haired": {},
+            "white haired": {}
+        }
+    }
+}

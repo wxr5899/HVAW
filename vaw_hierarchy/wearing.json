@@ -1,0 +1,34 @@
+{
+    "wearing": {
+        "dressed": {
+            "dressed warmly": {},
+            "dressed formally": {},
+            "wearing black": {},
+            "wearing blue": {},
+            "wearing green": {},
+            "wearing gray": {},
+            "wearing pink": {},
+            "wearing red": {},
+            "wearing white": {},
+            "wearing tie": {},
+            "wearing hat": {},
+            "wearing scarf": {},
+            "wearing glasses": {},
+            "wearing watch": {},
+            "wearing headband": {},
+            "well dressed": {}
+        },
+        "barefoot": {}, 
+        "topless": {},  
+        "hooded": {}, 
+        "gloved": {},
+        "shoeless": {}, 
+        "bare": {}, 
+        "long-sleeved": {}, 
+        "short-sleeved": {},
+        "shirtless": {},
+        "buttoned": {}, 
+        "sleeveless": {}, 
+        "with umbrella": {}
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "weather": {
+        "cloudy": {
+            "overcast": {},
+            "partly cloudy": {}
+        },
+        "foggy": {},
+        "hazy": {},
+        "stormy": {},
+        "sunny": {},
+        "cloudless": {},
+        "in rain": {},
+        "snowy": {},
+        "temperature": {
+            "cold": {},
+            "cool": {},
+            "warm": {},
+            "hot": {}
+        }
+    }
+}

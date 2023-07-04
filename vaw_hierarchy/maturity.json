@@ -1,0 +1,15 @@
+{
+    "maturity": {
+        "young": {
+            "baby": {}
+        },
+        "ripe": {},
+        "adult": {},
+        "aged": {
+            "elderly": {},
+            "old": {}
+        },
+        "ancient": {},
+        "new":{}
+    }
+}

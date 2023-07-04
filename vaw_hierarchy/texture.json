@@ -1,0 +1,14 @@
+{
+    "texture": {
+        "smooth": {
+            "glazed": {}
+        },
+        "textured": {
+            "jagged": {},
+            "moss covered": {},
+            "rough": {},
+            "wrinkled": {},
+            "choppy": {}
+        }
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "material": {
+        "metal": {
+            "black metal": {},
+            "gray metal": {},
+            "aluminum": {}, 
+            "brass": {}, 
+            "chrome": {},
+            "iron": {},
+            "stainless": {
+                "stainless steel":{}
+            },
+            "steel": {}
+        },
+        "stone": {
+            "cobblestone": {},
+            "granite": {},
+            "gravel": {},
+            "marble": {},
+            "rocky": {},
+            "pebbled": {}
+        },
+        "composite": {
+            "asphalt": {},
+            "brick": {
+                "red brick": {}
+            },
+            "stucco": {},
+            "tiled": {},
+            "cement": {},
+            "concrete": {},
+            "ceramic": {},
+            "porcelain": {},
+            "plastic": {},
+            "foam":{
+                "styrofoam": {}
+            },
+            "glass": {},
+            "statue": {}
+        },
+        "natural": {
+            "snow": {}, 
+            "water": {},
+            "soil":{},
+            "clay": {},
+            "dirt": {},
+            "muddy": {},
+            "straw": {},
+            "rubber": {},
+            "sandy": {}
+        },
+        "wooden": {
+            "bamboo": {},
+            "wicker": {},
+            "dark wood": {}, 
+            "hardwood": {}
+        },
+        "cloth": {
+            "denim": {
+                "jean": {}
+            },
+            "nylon": {},
+            "fabric": {},
+            "khaki": {},
+            "silk": {},
+            "knitted": {},
+            "crocheted": {}, 
+            "woven": {}, 
+            "sheer": {}
+        },
+        "fur": {
+            "leather": {},
+            "fluffy": {},
+            "plush": {},
+            "furry": {}, 
+            "wool": {}
+        },
+        "food": {
+            "chocolate": {},
+            "cheesy": {}, 
+            "pepperoni": {}
+        },
+        "paper": {
+            "paperback": {}
+        },
+        "cardboard": {},
+        "shingled": {},
+        "thatched": {}
+    } 
+}

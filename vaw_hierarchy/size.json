@@ -1,0 +1,14 @@
+{
+    "size": {
+        "large": {
+            "huge": {},
+            "big": {}
+        },
+        "wispy": {},
+        "small": {
+            "little": {},
+            "tiny": {},
+            "compact": {}
+        }
+    }
+}

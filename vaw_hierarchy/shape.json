@@ -1,0 +1,43 @@
+{
+    "shape": {
+        "curved": {
+            "arch shaped": {},
+            "curled": {},
+            "curly": {},
+            "domed": {},
+            "heart shaped": {},
+            "oval shaped": {},
+            "spiral": {},
+            "round": {
+                "circular": {},
+                "cylindrical": {},
+                "spherical": {}
+            }
+        },
+        "angular": {
+            "square": {
+                "cubed": {}
+            },
+            "triangular": {},
+            "octagonal": {},
+            "pointy": {
+                "conical": {},
+                "spiky": {}
+            },
+            "rectangular": {}
+        },
+        "mesh": {},
+        "ridged": {},
+        "straight":{
+            "arrow shaped": {}, 
+            "piece": {}
+        },
+        "bell shaped": {},
+        "diamond shaped": {},
+        "flat": {},
+        "baggy": {}, 
+        "puffy": {}, 
+        "sharp": {}, 
+        "horned": {}
+    }
+}

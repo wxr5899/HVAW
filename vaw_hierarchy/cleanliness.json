@@ -1,0 +1,16 @@
+{
+    "cleanliness":{
+        "clean": {
+            "spotless": {}, 
+            "neat": {}
+        },
+        "dirty": {
+            "littered": {},
+            "garbage": {},
+            "stained": {},
+            "filthy": {}
+        },
+        "messy": {},
+        "dusty": {}
+    }
+}

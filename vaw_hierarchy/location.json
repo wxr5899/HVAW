@@ -1,0 +1,22 @@
+{
+    "location": {
+        "interior": {},
+        "indoors": {},
+        "outdoors": {},
+        "far away": {},
+        "in the air": {},
+        "in the background": {},
+        "in water": {
+            "submerged": {}
+        }, 
+        "on": {
+            "on ground": {},
+            "on the wall": {}
+        },
+        "urban": {},
+        "off": {},
+        "rural": {},
+        "domestic": {},
+        "public": {}
+    }
+}

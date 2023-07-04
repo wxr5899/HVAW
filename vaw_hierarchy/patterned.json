@@ -1,0 +1,33 @@
+{
+    "patterned": {
+        "striped": {
+            "blue striped": {},
+            "red striped" :{},
+            "pinstriped": {}
+        },
+        "plaid": {
+            "blue plaid": {}
+        },
+        "checkered": {},
+        "floral": {},
+        "dotted": {
+            "polka dotted": {},
+            "speckled": {},
+            "spotted": {}
+        },
+        "crossed": {}, 
+        "graffitied": {},
+        "patchy": {},
+        "scattered": {},
+        "sprinkled": {},
+        "chain-link": {},
+        "tattooed": {},
+        "flowered": {},
+        "rippled": {}, 
+        "barred": {},
+        "camouflage": {}
+    }
+}
+
+
+

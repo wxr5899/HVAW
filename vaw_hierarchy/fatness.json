@@ -1,0 +1,13 @@
+{
+    "fatness": {
+        "fat": {
+            "chubby": {}, 
+            "bulky": {}
+        },
+        "thin": {
+            "slender": {},
+            "slim": {},
+            "skinny": {}
+        }
+    }
+}

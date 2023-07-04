@@ -1,0 +1,12 @@
+{
+    "color quality":{
+        "colorless": {},
+        "colorful": {
+            "monochromatic": {},
+            "multicolored": {
+                "tricolored": {},
+                "rainbow colored": {}
+            }
+        }
+    }
+}

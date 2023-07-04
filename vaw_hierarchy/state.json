@@ -1,0 +1,174 @@
+{
+    "state": {
+        "active": {},
+        "closed": {},
+        "sealed": {},
+        "open": {
+            "slightly open": {},
+            "turned on": {}
+        },
+        "folded": {},
+        "tucked in": {}, 
+        "quantity": {
+            "whole": {},
+            "almost empty": {},
+            "empty": {},
+            "full": {},
+            "half": {
+                "half filled": {}
+            },
+            "filled": {},
+            "stuffed": {},
+            "stacked": {}, 
+            "piled": {},
+            "many": {},
+            "leftover": {},
+            "uneaten": {},
+            "partially eaten": {}
+        },
+        "dry": {
+            "dried": {}
+        },
+        "wet": {
+            "watery": {}, 
+            "slippery": {}
+        },
+        "shaggy": {},
+        "raw": {},
+        "fried": {}, 
+        "peeled": {},
+        "buried": {},
+        "burnt": {},
+        "cooked": {},
+        "baked": {}, 
+        "dilapidated": {},
+        "rumpled": {},
+        "cut": {
+            "chopped": {},
+            "shredded": {},
+            "sliced": {}
+        },
+        "physical state": {
+            "frosted": {},
+            "boiled": {}, 
+            "frozen": {},
+            "melted": {},
+            "weathered": {},
+            "powdered": {},
+            "bent": {}
+        },
+        "corrosion state": {
+            "rusty": {},
+            "rotten": {}
+        },
+        "mounted": {},
+        "wrapped": {
+            "boxed": {}
+        },
+        "tagged": {},
+        "fallen": {},
+        "floating": {},
+        "raised": {},
+        "balancing": {},
+        "trimmed": {},
+        "scruffy": {},
+        "scraggly": {},
+        "faded": {},
+        "blank": {},
+        "damaged": {
+            "broken": {},
+            "cracked": {}
+        },
+        "knocked over": {},
+        "pose": {
+            "kneeling": {}, 
+            "leaning": {
+                "leaning back": {}, 
+                "leaning forward": {} 
+            },
+            "crouching": {},
+            "reclining": {},
+            "sitting": {
+                "crossing legs": {}
+            },
+            "spreading legs": {},
+            "spreading arms": {}
+        },
+        "manicured": {},
+        "rolled up": {},
+        "shaded": {}, 
+        "carried": {}, 
+        "smoky": {}, 
+        "busy": {}, 
+        "chipped": {},
+        "alone": {},
+        "turbulent": {},
+        "laying": {},
+        "body state": {
+            "hungry": {},
+            "sleepy": {},
+            "lazy": {},
+            "healthy": {},
+            "thirsty": {},
+            "bearded": {}
+        },
+        "extended": {},
+        "topped": {},
+        "displayed": {},
+        "splashing": {},
+        "sticking out": {},
+        "outstretched": {},
+        "wild": {},
+        "for sale": {},
+        "perched": {},
+        "professional": {},
+        "fresh": {},
+        "leashed": {},
+        "captive": {},
+        "strong": {},
+        "worn": {},
+        "panting": {},
+        "still": {
+            "stopped": {
+                "docked": {},
+                "parking": {},
+                "parked": {}
+            }
+        },
+        "organized": {},
+        "assorted": {}, 
+        "lined": {
+            "lined up": {}
+        },
+        "pinned": {},
+        "mixed": {},
+        "sneaky": {},
+        "frisky": {},
+        "holed": {},
+        "tied": {},
+        "foamy": {}, 
+        "used": {},
+        "abandoned": {},
+        "unused": {},
+        "unmade": {}, 
+        "tame": {}, 
+        "directional": {},
+        "covered": {
+            "covered in sugar": {},
+            "leaf covered": {
+                "tree-covered": {}
+            }
+        },
+        "life state": {
+            "lush": {
+                "bushy": {},
+                "leafy": {},
+                "grassy": {},
+                "overgrown": {}
+            },
+            "leafless": {},
+            "dead": {},
+            "barren": {}
+        }
+    }
+}

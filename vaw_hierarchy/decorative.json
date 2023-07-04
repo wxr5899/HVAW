@@ -1,0 +1,17 @@
+{   
+    "decorative": {
+        "wallpapered": {},
+        "neon": {},
+        "painted": {},
+        "lettered": {
+            "black lettered": {},
+            "red lettered": {},
+            "white lettered": {}
+        },
+        "framed": {
+            "black framed": {},
+            "white framed": {},
+            "gold framed": {}
+        }
+    }
+}

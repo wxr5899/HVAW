@@ -1,0 +1,42 @@
+{
+    "feeling": {
+        "happy": {
+            "smiling": {
+                "grinning": {},
+                "smirking": {}
+            },
+            "enjoying": {},
+            "laughing": {},
+            "joyful": {}
+        },
+        "unhappy": {
+            "sad": {},
+            "frowning": {}
+        },
+        "saucy": {},
+        "angry": {},
+        "dull": {},
+        "serious": {},
+        "surprised": {},
+        "relaxing": {},
+        "calm": {
+            "peaceful": {}
+        },
+        "funny": {}, 
+        "excited": {}, 
+        "loving": {},
+        "friendly": {},
+        "lonely": {},
+        "comfortable": {},
+        "appetizing":{},
+        "curious": {},
+        "tired": {},
+        "playful": {},
+        "scared": {},
+        "bored": {},
+        "anxious": {},
+        "annoyed": {},
+        "confused": {},
+        "delicious": {}
+    }
+}
