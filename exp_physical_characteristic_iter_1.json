@@ -1,0 +1,40 @@
+{
+    "teeth": {
+        "meatteeth": {},
+        "buckteeth": {},
+        "tailchewteeth": {},
+        "strainteeth": {},
+        "tusks": {}
+    },
+    "agility": {},
+    "skin": {
+        "toughskin": {}
+    },
+    "hair": {
+        "hairless": {},
+        "furry": {}
+    },
+    "body": {
+        "bulbous": {},
+        "lean": {},
+        "muscle": {}
+    },
+    "limbs": {
+        "flippers": {},
+        "hands": {},
+        "hooves": {},
+        "feet": {
+            "paws": {
+                "pads": {},
+                "claws": {}
+            }
+        },
+        "legs": {
+            "longleg": {}
+        }
+    },
+    "neck": {
+        "longneck": {}
+    },
+    "horns": {}
+}

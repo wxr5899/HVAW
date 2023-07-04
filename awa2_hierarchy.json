@@ -1,0 +1,139 @@
+{
+    "strength": {
+        "strong": {},
+        "weak": {}
+    },
+    "speed": {
+        "fast": {},
+        "slow": {}
+    },
+    "activity level": {
+        "active": {},
+        "inactive": {}
+    },
+    "activity pattern": {
+        "nocturnal": {}
+    },
+    "habitat": {
+        "arctic": {},
+        "coastal": {},
+        "desert": {},
+        "bush": {},
+        "plains": {},
+        "forest": {},
+        "fields": {},
+        "jungle": {},
+        "mountains": {},
+        "ocean": {},
+        "ground": {},
+        "water": {},
+        "tree": {},
+        "cave": {}
+    },
+    "behavior": {
+        "fierce": {},
+        "timid": {},
+        "nestspot": {},
+        "domestic": {}
+    },
+    "size": {
+        "small": {},
+        "big": {}
+    },
+    "pattern": {
+        "patches": {},
+        "spots": {},
+        "stripes": {}
+    },
+    "diet": {
+        "fish": {},
+        "meat": {},
+        "plankton": {},
+        "vegetation": {},
+        "insects": {}
+    },
+    "odor": {
+        "smelly": {}
+    },
+    "geographical region": {
+        "newworld": {},
+        "oldworld": {}
+    },
+    "physical characteristic": {
+        "teeth": {
+            "meatteeth": {},
+            "buckteeth": {},
+            "tailchewteeth": {},
+            "strainteeth": {},
+            "tusks": {}
+        },
+        "agility": {},
+        "skin": {
+            "toughskin": {}
+        },
+        "hair": {
+            "hairless": {},
+            "furry": {}
+        },
+        "body": {
+            "bulbous": {},
+            "lean": {},
+            "muscle": {}
+        },
+        "limbs": {
+            "flippers": {},
+            "hands": {},
+            "hooves": {},
+            "feet": {
+                "paws": {
+                    "pads": {},
+                    "claws": {}
+                }
+            },
+            "legs": {
+                "longleg": {}
+            }
+        },
+        "neck": {
+            "longneck": {}
+        },
+        "horns": {}
+    },
+    "intelligence": {
+        "smart": {}
+    },
+    "feeding behavior": {
+        "forager": {},
+        "grazer": {},
+        "hunter": {},
+        "scavenger": {},
+        "skimmer": {},
+        "stalker": {}
+    },
+    "color": {
+        "black": {},
+        "blue": {},
+        "brown": {},
+        "gray": {},
+        "red": {},
+        "yellow": {},
+        "orange": {},
+        "white": {}
+    },
+    "social behavior": {
+        "group": {},
+        "solitary": {}
+    },
+    "habit": {
+        "hibernate": {}
+    },
+    "movement": {
+        "flys": {},
+        "hops": {},
+        "swims": {},
+        "tunnels": {},
+        "walks": {},
+        "bipedal": {},
+        "quadrapedal": {}
+    }
+}
