@@ -1,2 +1,2 @@
-# paper2517
-The material for paper 2517
+# Hierarchical Visual Attribute Learning in the Wild
+The material for paper Hierarchical Visual Attribute Learning in the Wild
